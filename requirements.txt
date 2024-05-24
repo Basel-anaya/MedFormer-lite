@@ -1,0 +1,17 @@
+transformers
+tokenizers
+flash_attn
+torch
+torchvision
+bitsandbytes
+pillow
+gradio
+streaming-stt-nemo
+edge-tts
+asyncio
+spaces
+huggingface-hub
+pypdf
+langchain
+fastembed
+chromadb
