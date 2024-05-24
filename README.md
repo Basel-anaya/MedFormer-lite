@@ -1,4 +1,4 @@
-# Medformer: A Biomedical Vision-Language Model with RAG System
+# MedFormer: A Biomedical Vision-Language Model with RAG System
 ![medformer](https://github.com/Basel-anaya/MedFormer-lite/assets/81964452/569de6e0-b893-4897-8dc1-8d0392911b74)
 This repository contains the code and resources for Medformer, a state-of-the-art medical visual language model developed by Basel. The project includes three main components:
 
